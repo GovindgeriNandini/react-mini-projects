@@ -51,6 +51,7 @@ Demonstrates how React handles user interactions such as button clicks and input
 ---
 
 ### 2️ Movie Database Interface
+![Movie Database Interface](movie-database-interface/screenshots/app.png)
 
 A simple UI to display movie information in a structured format.
 
