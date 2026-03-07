@@ -119,7 +119,7 @@ A dashboard interface that displays user profile information.
 
 ---
 
-# 🛠 Tech Stack
+#  Tech Stack
 
 * React.js
 * JavaScript (ES6)
@@ -128,7 +128,7 @@ A dashboard interface that displays user profile information.
 
 ---
 
-# ⚙️ Installation
+#  Installation
 
 Clone the repository
 
