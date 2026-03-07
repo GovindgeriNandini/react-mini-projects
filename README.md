@@ -37,6 +37,9 @@ These projects helped me practice **building user interfaces using React** throu
 
 ### 1️ Event Handling
 
+
+![Event Handling App](event-handling/screenshots/app.png)
+
 Demonstrates how React handles user interactions such as button clicks and input events.
 
 **Concepts Practiced**
