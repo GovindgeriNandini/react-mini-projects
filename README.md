@@ -52,6 +52,11 @@ Demonstrates how React handles user interactions such as button clicks and input
 
 ### 2️ Movie Database Interface
 ![Movie Database Interface](movie-database-interface/screenshots/app.png)
+![Movie Database Interface](movie-database-interface/screenshots/app1.png)
+![Movie Database Interface](movie-database-interface/screenshots/app2.png)
+![Movie Database Interface](movie-database-interface/screenshots/app3.png)
+![Movie Database Interface](movie-database-interface/screenshots/app4.png)
+![Movie Database Interface](movie-database-interface/screenshots/app5.png)
 
 A simple UI to display movie information in a structured format.
 
@@ -64,6 +69,7 @@ A simple UI to display movie information in a structured format.
 ---
 
 ### 3️ Portfolio Card Project
+![Portfolio Card Project](portfolio-card-project/screenshots/app.png)
 
 A reusable **profile card component** that displays user information such as name, description, and profile details.
 
@@ -76,6 +82,8 @@ A reusable **profile card component** that displays user information such as nam
 ---
 
 ### 4️ Product Showcase
+![Product Showcase](product-showcase/screenshots/app.png)
+
 
 Displays a list of products using reusable React components.
 
@@ -88,6 +96,8 @@ Displays a list of products using reusable React components.
 ---
 
 ### 5️ State Management
+![ State Management](state-management/screenshots/app.png)
+
 
 Demonstrates how to manage and update component state using the **useState hook**.
 
@@ -101,6 +111,8 @@ Demonstrates how to manage and update component state using the **useState hook*
 
 ### 6️ Styling React Components
 
+![Styling React Components](styling-react-components/screenshots/app.png)
+
 Explores different methods of styling React components.
 
 **Concepts Practiced**
@@ -112,6 +124,8 @@ Explores different methods of styling React components.
 ---
 
 ### 7️ User Profile Dashboard
+![user-profile dashboard](user-profile-dashboard/screenshots/app.png)
+
 
 A dashboard interface that displays user profile information.
 
