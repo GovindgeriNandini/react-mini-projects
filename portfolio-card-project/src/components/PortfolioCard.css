@@ -1,0 +1,118 @@
+:root {
+    --primary-blue: #667eea;
+    --secondary-purple: #764ba2;
+
+    --text-dark: #333333;
+    --text-medium: #555555;
+    --text-light: #666666;
+
+    --bg-white: #ffffff;
+
+}
+
+.portfolio-card {
+    max-width: 450px;
+    border-radius: 15px;
+    margin: 50px auto;
+    background: white;
+    box-shadow: 0 4px 40px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    font-family: sans-serif;
+    
+
+}
+
+.portfolio-header {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    padding: 20px;
+    text-align: center;
+   
+}
+.portfolio-header h1 {
+    margin: 0;
+    font-size: 1.5rem;
+}
+
+.header-decoration {
+    width:240px;
+    height:3px;
+    background-color: white;
+    margin: 10px auto;
+    border-radius: 2px;
+}
+
+.avatar-container {
+    text-align: center;
+    margin-bottom: 20px;
+    position: relative;
+    padding: 30px;
+}
+
+.avatar-image{
+    width:300px;
+    height:300px;
+    border-radius: 50%;
+    object-fit: cover;
+   
+    border: 5px solid #667eea;
+}
+
+.name{
+    color : var(--text-dark);
+    margin: 0 0 10px 0;
+    font-size: 1.8rem;
+
+}
+.role{
+    color: var(--primary-blue);
+    font-weight: bold;
+    margin: 5px 0;
+    font-size: 1.1rem;
+}
+
+.location, .email {
+    color: var(--text-light);
+    margin: 5px 0;
+
+}
+.bio-section{
+     padding: 30px;
+}
+.bio-section h3{
+    color: var(--text-dark);
+    border-bottom: 2px solid var(--primary-blue);
+    margin-bottom: 10px;
+    padding-bottom: 5px;
+   
+}
+
+.bio-text {
+    line-height: 1.6;
+    color: var(--text-medium);
+    margin-bottom: 20px;
+}   
+
+.skills-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+.skill-tag {
+    background-color: var(--primary-blue);
+    color: white;
+    padding: 5px 12px;
+    border-radius: 12px;
+    font-size: 0.9rem;
+    font-weight: bold;
+}
+.skill-tag:hover {
+    background-color: var(--secondary-purple);
+    transform: translateY(-2px);
+    transition: all 0.3s ease;
+}
+
+.portfolio-card:hover {
+    box-shadow: 0 2px 40px rgba(0, 0, 0, 0.2);
+    transition: box-shadow 0.3s ease;
+}
