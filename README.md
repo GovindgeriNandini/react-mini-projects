@@ -138,6 +138,9 @@ A dashboard interface that displays user profile information.
 ---
 ### 8️ Task Manager
 
+**Live Demo**
+https://react-mini-projects-umber.vercel.app/
+
 ![Task Manager](task-manager/screenshots/app1.png)
 ![Task Manager](task-manager/screenshots/app2.png)
 ![Task Manager](task-manager/screenshots/app3.png)
