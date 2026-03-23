@@ -137,6 +137,21 @@ A dashboard interface that displays user profile information.
 
 ---
 
+| Task Manager | `task-manager` |
+### 8️⃣ Task Manager
+
+![Task Manager](task-manager/screenshots/app.png)
+
+A full-featured task management app built with advanced React patterns.
+
+**Concepts Practiced**
+
+* Context API
+* useReducer
+* Global state management
+* Component architecture
+* Responsive design
+
 #  Tech Stack
 
 * React.js
@@ -189,6 +204,8 @@ Through these projects I practiced:
 * Managing state with hooks
 * Handling events
 * Styling user interfaces
+* Managing global state with Context API
+* Handling complex state logic with useReducer
 
 ---
 
