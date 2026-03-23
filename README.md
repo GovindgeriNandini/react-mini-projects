@@ -136,11 +136,12 @@ A dashboard interface that displays user profile information.
 * Reusable components
 
 ---
+### 8️ Task Manager
 
-| Task Manager | `task-manager` |
-### 8️⃣ Task Manager
+![Task Manager](task-manager/screenshots/app1.png)
+![Task Manager](task-manager/screenshots/app2.png)
+![Task Manager](task-manager/screenshots/app3.png)
 
-![Task Manager](task-manager/screenshots/app.png)
 
 A full-featured task management app built with advanced React patterns.
 
